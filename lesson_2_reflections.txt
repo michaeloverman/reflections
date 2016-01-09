@@ -10,3 +10,7 @@ provides an 'intermediary' step between working file and commit, allowing you to
 Question: does placing a file in the staging area place the file AS IT IS at that moment, or just the file. In other words,
 would changes after staging be included in the commit or not?
 TEST: Staging now.
+File has been staged but not committed, and now I'm changing it.
+Okay that didn't really do anything...
+
+But now: seeing what's up with this -w file: see if not saving, but just clicking out of the text editor will save the comment in the git log, but not create the file.
