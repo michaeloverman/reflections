@@ -4,3 +4,9 @@ a .git file/folder is created, ready to accept a first commit. To set up the who
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I don't really know. The SA is just a 'status' for files in the wd. Good to have a step to consider what you're about to do before committing to the commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+By placing each file changed, one at a time, into the staging area, after logical changes, you can keep track of what's been changed, and what hasn't. It also
+provides an 'intermediary' step between working file and commit, allowing you to check on other changes.
+Question: does placing a file in the staging area place the file AS IT IS at that moment, or just the file. In other words,
+would changes after staging be included in the commit or not?
+TEST: Staging now.
