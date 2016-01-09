@@ -1,0 +1,29 @@
+Comparing files
+
+USE CMD window, NOT PowerShell
+fc compares the filse, shows each difference. Does NOT tell you where it is, with a line number for example. At least not that I can see.
+
+spotted the mispelled word immediately, amongst a few lines, rather than 1000s
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+See the progression/thought process. Always go back and fix.
+More willing to experiment with new ideas, knowing you won't destroy anything.
+Have the learning process 'documented' in a way.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Cons
+forget when "in the moment"
+lose work if crash
+Pros
+changes are logical, easy to find later
+
+How can you use the commands git log and git diff to view the history of files?
+log to find what changed according to notes
+diff to find specific changes within the files
+
+How might using version control make you more confident to make changes that could break something?
+free to try things, knowing will always find a way back. It is the bread crumbs of a birdless world.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+learning to program - java and ruby, other stuff too, maybe javascript, etc.
+
