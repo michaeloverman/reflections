@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+a .git file/folder is created, ready to accept a first commit. To set up the whole shebang.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+I don't really know. The SA is just a 'status' for files in the wd. Good to have a step to consider what you're about to do before committing to the commit
+
