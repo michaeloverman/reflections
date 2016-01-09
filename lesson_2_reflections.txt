@@ -14,3 +14,8 @@ File has been staged but not committed, and now I'm changing it.
 Okay that didn't really do anything...
 
 But now: seeing what's up with this -w file: see if not saving, but just clicking out of the text editor will save the comment in the git log, but not create the file.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+experiments, foreign language versions, reorganizations, multiple coders, versions for different platforms, color experiments
+
