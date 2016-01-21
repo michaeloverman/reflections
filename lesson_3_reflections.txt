@@ -4,3 +4,8 @@ Whenever I'm working on different computers, or in different locations. If I'm a
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Other contributers - too many to deal with. Use the online repository to accept or reject before downloading to local.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks - for working on someone else's public project found on GitHub. Good for practicing original coding, tweaking, without having to create the entire 'engine' of whatever the code is doing from scratch.
+Clones - for working offline. USEFUL! For 'stealing' code in order to claim work as your own.
+Branches - for working on small ideas of your own code that you're not sure you will keep or like completely in the end, or maybe not even work...
+
