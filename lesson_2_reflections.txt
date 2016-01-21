@@ -22,3 +22,10 @@ experiments, foreign language versions, reorganizations, multiple coders, versio
 How do the diagrams help you visualize the branch structure?
 Like a map, flow chart, etc., etc. I wonder if large programming organizations keep big charts of this stuff in the break room...
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines the changes from each of two versions of development. Diagrams show what was developed independently, and therefor combined in the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Have it take care of 'easy' stuff - makes good sense. I don't need to concern myself with the details, until I'm dealing specifically with details. Better not to have it make ANY decisions that aren't completely straight forward....
+
+
