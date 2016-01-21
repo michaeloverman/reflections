@@ -9,3 +9,6 @@ Forks - for working on someone else's public project found on GitHub. Good for p
 Clones - for working offline. USEFUL! For 'stealing' code in order to claim work as your own.
 Branches - for working on small ideas of your own code that you're not sure you will keep or like completely in the end, or maybe not even work...
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Working from the latest material is really the only thing that makes sense, no? Unless you're just working on a particular branch that you want functioning perfectly before integrating with the master, in which case you want the latest known state of the branch.
+
