@@ -15,3 +15,6 @@ Working from the latest material is really the only thing that makes sense, no? 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Face-to-face. Would be harder to arrange/schedule. Easier when actually coding - two sets of eyes, play off each other's ideas, push each other.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When multiple people work on the same thing, each should make own branch. By recombining one branch at a time, can make sure to avoid conflicts. Work directly in master to make small changes, like typos.
+
