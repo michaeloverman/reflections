@@ -12,3 +12,6 @@ Branches - for working on small ideas of your own code that you're not sure you 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Working from the latest material is really the only thing that makes sense, no? Unless you're just working on a particular branch that you want functioning perfectly before integrating with the master, in which case you want the latest known state of the branch.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Face-to-face. Would be harder to arrange/schedule. Easier when actually coding - two sets of eyes, play off each other's ideas, push each other.
+
